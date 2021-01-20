@@ -33,7 +33,7 @@ publication_short: In *The UMAP Journal*
 abstract: Motivated to measure the stability of a country quantitatively and more accurately, our team built a mathematical framework to identify the status of the country. We categorize countries into three states: stable, vulnerable, and fragile state. We arrive at a composite index that considers different factors in the economy, politics, demographics and climate change in a country. Based on the logistic growth model, we create a dynamic system that not only describes the current state of a country but also predicts equilibrium states that the country would approach over time. We utilize a bifurcation plot to depict tipping points between three states for a country. We then apply our framework to Syria, Cuba and New Zealand. By calibrating parameters and comparing different factors in each country, we find that New Zealand is steadily reaching equilibrium but Syria and Cuba have been significantly impacted by negative climate changes. However, if it were not for the negative effects of climate change, Syria would approach a vulnerable state and Cuba a stable state.
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: []
 
 tags: []
 
@@ -56,10 +56,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+image: []
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

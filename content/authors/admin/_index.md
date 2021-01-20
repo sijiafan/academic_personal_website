@@ -1,7 +1,7 @@
 ---
 title: Sijia Fan
 role: PhD Candidate in Applied Economics and Management
-avatar_filename: content/authors/admin/img_0851.jpg
+avatar_filename: {{< staticref "content/authors/admin/img_0851.jpg">}} 
 bio: My research interests include empirical finance and environmental economics.
 interests: []
 social:
@@ -14,6 +14,9 @@ social:
 organizations: []
 education:
   courses:
+    - course: PhD in Applied Economics and Management
+      institution: Cornell University
+      year: Expected 2025
     - course: MEng in Operations Research and Information Engineering
       institution: Cornell University
       year: 2019

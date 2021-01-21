@@ -3,7 +3,7 @@ title: "How does climate change influence regional instability?"
 
 authors:
 - admin
-- Robert Ford
+- Ran Tao
 
 author_notes:
 - "Equal contribution"
@@ -21,13 +21,13 @@ publishDate: "2018-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The UMAP, 1*(1)"
+publication: "*The UMAP, Vol.39 Issue 2, p165-186. 22p"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Motivated to measure the stability of a country quantitatively and more accurately, our team built a mathematical framework to identify the status of the country. We categorize countries into three states: stable, vulnerable, and fragile state. We arrive at a composite index that considers different factors in the economy, politics, demographics and climate change in a country. Based on the logistic growth model, we create a dynamic system that not only describes the current state of a country but also predicts equilibrium states that the country would approach over time. We utilize a bifurcation plot to depict tipping points between three states for a country. We then apply our framework to Syria, Cuba and New Zealand. By calibrating parameters and comparing different factors in each country, we find that New Zealand is steadily reaching equilibrium but Syria and Cuba have been significantly impacted by negative climate changes. However, if it were not for the negative effects of climate change, Syria would approach a vulnerable state and Cuba a stable state.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=01973622&AN=132456000&h=eyM%2bQYksNEXfqvwyc8Z87X9RVztQ5QN66Mm7G4V%2bwTdQia4L2MC%2f%2fDWNpnFd1QQlUdSMwonXeypdt1%2fYaI%2b%2bsA%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d01973622%26AN%3d132456000
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -75,4 +75,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

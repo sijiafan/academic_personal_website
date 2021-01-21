@@ -4,10 +4,12 @@ title: "How does climate change influence regional instability?"
 authors:
 - admin
 - Ran Tao
+- Kaifeng Yang
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
+- ""
 date: "2018-09-01T00:00:00Z"
 doi: ""
 
@@ -24,10 +26,10 @@ publication_types: ["2"]
 publication: "*The UMAP, Vol.39 Issue 2, p165-186. 22p"
 publication_short: ""
 
-abstract: Motivated 
+abstract: "Motivated to measure the stability of a country quantitatively and more accurately, our team built a mathematical framework to identify the status of the country. We categorize countries into three states: stable, vulnerable, and fragile state. We arrive at a composite index that considers different factors in the economy, politics, demographics and climate change in a country. Based on the logistic growth model, we create a dynamic system that not only describes the current state of a country but also predicts equilibrium states that the country would approach over time. We utilize a bifurcation plot to depict tipping points between three states for a country."
 
 # Summary. An optional shortened abstract.
-summary: optional
+summary: ""
 
 tags:
 - Source Themes

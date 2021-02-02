@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
+  date_end: 
+  date_start: "2018-02-04"
+  description: "Outstanding Winner, INFORMS Award & COMAP Scholarship Award ($10,000)"
+  organization: COMAP
+  organization_url: https://www.comap.com/undergraduate/contests/index.html
+  title: Mathematical Contest in Modeling
+  url: "https://www.comap.com/undergraduate/contests/mcm/contests/2018/results/2018_ICM_Problem_E_Results.pdf"
+- certificate_url: 
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  date_start: "2018-05-01"
+  description: "Honors Thesis Award"
+  organization: Skidmore College
+  organization_url: 
+  title: "Periclean Scholar Awards"
+  url: https://creativematter.skidmore.edu/peri_stu_scholar/
+- certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  date_start: "2019-05-21"
+  description: "The Third Place"
+  organization: Cornell Engineering
+  organization_url: 
+  title: 'Slient Hoist and Crane Award'
+  url: "https://www.orie.cornell.edu/news/ories-peter-jackson-advises-winning-m-eng-project-team-annual-competition"
 ---

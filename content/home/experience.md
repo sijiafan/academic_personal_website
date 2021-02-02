@@ -22,24 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: Professor Ge Qi
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    location: Econonomics, Vassar College
+    date_start: '2020-01-30'
+    date_end: '2020-08-15'
+    description: # |2-
+        # Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        # * Analysing
+        # * Modelling
+        # * Deploying
         
-  - title: Professor
-    company: University X
+  - title: Data Analytics
+    company: Block Renovation
+    company_url: 'https://www.blockrenovation.com/'
+    location: NYC
+    date_start: '2020-02-01'
+    date_end: '2020-7-31'
+    description: ""
+    
+  - title: Graduate Teaching Assistant
+    company: ORIE 4741 Learning with Big Messy Data
+    company_url: 'https://people.orie.cornell.edu/mru8/orie4741/'
+    location: Cornell Engineering
+    date_start: '2019-09-01'
+    date_end: '2019-12-20'
+    description: ""
+   
+  - title: Research Associate
+    company: The Stone Street Group
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: NYC
+    date_start: '2019-04-01'
+    date_end: '2019-08-30'
+    description: ""
+  
 ---

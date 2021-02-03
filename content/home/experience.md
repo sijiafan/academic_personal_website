@@ -35,7 +35,7 @@ experience:
     company_url: 'https://www.blockrenovation.com/'
     location: NYC
     date_start: '2020-02-01'
-    date_end: '2020-7-31'
+    date_end: '2020-07-31'
     description: ''
     
   - title: Graduate Teaching Assistant

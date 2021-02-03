@@ -28,12 +28,7 @@ experience:
     location: Econonomics, Vassar College
     date_start: '2020-01-30'
     date_end: '2020-08-15'
-    description: # |2-
-        # Responsibilities include:
-        
-        # * Analysing
-        # * Modelling
-        # * Deploying
+    description: ''
         
   - title: Data Analytics
     company: Block Renovation
@@ -41,7 +36,7 @@ experience:
     location: NYC
     date_start: '2020-02-01'
     date_end: '2020-7-31'
-    description: ""
+    description: ''
     
   - title: Graduate Teaching Assistant
     company: ORIE 4741 Learning with Big Messy Data
@@ -49,7 +44,7 @@ experience:
     location: Cornell Engineering
     date_start: '2019-09-01'
     date_end: '2019-12-20'
-    description: ""
+    description: ''
    
   - title: Research Associate
     company: The Stone Street Group
@@ -57,6 +52,6 @@ experience:
     location: NYC
     date_start: '2019-04-01'
     date_end: '2019-08-30'
-    description: ""
+    description: ''
   
 ---

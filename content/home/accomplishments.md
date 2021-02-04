@@ -42,10 +42,10 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2018-05-01"
-  description: "out of all Economics major students"
+  description: "Out of all Economics major students"
   organization: Skidmore College
   organization_url: 
-  title: "william E. Weiss Memorial Award in Economics"
+  title: "William E. Weiss Memorial Award in Economics"
   url: https://www.skidmore.edu/flip-books/hc/2018-honors-convocation/16/
 - certificate_url: 
   date_end: ""

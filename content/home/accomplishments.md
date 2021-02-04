@@ -41,6 +41,14 @@ item:
   url: https://creativematter.skidmore.edu/peri_stu_scholar/
 - certificate_url: 
   date_end: ""
+  date_start: "2018-05-01"
+  description: "out of all Economics major students"
+  organization: Skidmore College
+  organization_url: 
+  title: "william E. Weiss Memorial Award in Economics"
+  url: https://www.skidmore.edu/flip-books/hc/2018-honors-convocation/16/
+- certificate_url: 
+  date_end: ""
   date_start: "2019-05-21"
   description: "The Third Place (out of all M.Eng Capstone Projects)"
   organization: Cornell Engineering

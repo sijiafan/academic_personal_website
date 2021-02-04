@@ -1,5 +1,5 @@
 ---
-title: "Do Investors Care about Corporate Apologies? Evidence from Chemical Disasters"
+title: "A Quantitative Implementation of Black Litterman Model"
 
 authors:
 - admin

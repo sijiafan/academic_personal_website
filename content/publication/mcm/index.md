@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=01973622&AN=132456000&h=eyM%2bQYksNEXfqvwyc8Z87X9RVztQ5QN66Mm7G4V%2bwTdQia4L2MC%2f%2fDWNpnFd1QQlUdSMwonXeypdt1%2fYaI%2b%2bsA%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d01973622%26AN%3d132456000
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Professor Ge Qi
     company_url: ''
-    location: Econonomics, Vassar College
+    location: Economics Department, Vassar College
     date_start: '2020-01-30'
     date_end: '2020-08-15'
     description: ''

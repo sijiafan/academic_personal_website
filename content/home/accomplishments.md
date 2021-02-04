@@ -50,7 +50,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-05-21"
-  description: "The Third Place (out of all M.Eng Capstone Projects)"
+  description: "The Third Place (out of all M.Eng Capstone Projects). One example user interface for our final deliverables https://sf395.shinyapps.io/UserInterface_test/ for The Home Depot website"
   organization: Cornell Engineering
   organization_url: 
   title: 'Slient Hoist and Crane Award'

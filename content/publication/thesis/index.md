@@ -32,8 +32,8 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: 'https://creativematter.skidmore.edu/econ_studt_schol/88/'
+   url: "https://creativematter.skidmore.edu/econ_studt_schol/88/"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

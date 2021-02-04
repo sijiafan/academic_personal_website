@@ -34,7 +34,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2018-05-01"
-  description: "Honors Thesis Award"
+  description: "Honors Thesis Award (out of all senior theses)"
   organization: Skidmore College
   organization_url: 
   title: "Periclean Scholar Awards"
@@ -42,9 +42,17 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2019-05-21"
-  description: "The Third Place"
+  description: "The Third Place (out of all M.Eng Capstone Projects)"
   organization: Cornell Engineering
   organization_url: 
   title: 'Slient Hoist and Crane Award'
   url: "https://www.orie.cornell.edu/news/ories-peter-jackson-advises-winning-m-eng-project-team-annual-competition"
+- certificate_url: 
+  date_end: ""
+  date_start: "2014-02-01"
+  description: "International Champion"
+  organization: Harvard University
+  organization_url: 
+  title: 'Harvard National High School Invitational Forensics Tournament'
+  url: 
 ---

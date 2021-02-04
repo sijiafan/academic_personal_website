@@ -1,6 +1,6 @@
 ---
 title: Sijia Fan
-role: PhD Candidate in Applied Economics and Management
+role: PhD student in Applied Economics and Management
 avatar_filename: img_0851.jpg
 bio: My research interests include empirical finance and environmental economics.
 interests: []
@@ -27,7 +27,7 @@ email: sf395@cornell.edu
 superuser: true
 highlight_name: false
 ---
-Sijia Fan is a PhD candidate in Applied Economics and Management at Dyson in Cornell University. Her research passion lies in the subdisciplines of applied econometrics and applied microeconomics with a focus on finance and environment economics where she can apply computational and analytical analyses to complex societal and economic challenges to make policy implications. More specifically, she is interested in conducting research related to data-driven financial markets and environmental issues and aim to develop statistical methods that could help shape relevant public policies. 
+Sijia Fan is a PhD student in Applied Economics and Management at Dyson in Cornell University. Her research passion lies in the subdisciplines of applied econometrics and applied microeconomics with a focus on finance and environment economics where she can apply computational and analytical analyses to complex societal and economic challenges to make policy implications. More specifically, she is interested in conducting research related to data-driven financial markets and environmental issues and aim to develop statistical methods that could help shape relevant public policies. 
 
 
 

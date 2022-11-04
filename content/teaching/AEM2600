@@ -1,0 +1,33 @@
+---
+title: AEM2600 Managerial Economics
+
+event: 
+event_url: 
+
+summary: 
+abstract: 
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2022-12-20"
+date_end: "2022-08-23"
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: ""
+
+authors: []
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: ''
+  focal_point: Right
+
+links:
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""

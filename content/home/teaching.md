@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 85
+weight: 95
 
 title: 'Teaching Assistants'
 subtitle:

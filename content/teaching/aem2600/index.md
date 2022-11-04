@@ -1,13 +1,13 @@
 ---
 title: AEM 2600 Managerial Economics
 
-event: 
+event: Teaching Assistant
 event_url: https://example.org
 
 location: Cornell University
 
 
-summary:
+summary: AEM 2600
 abstract: 
 
 # Talk start and end times.
@@ -17,7 +17,7 @@ date_end: "2022-12-20T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 
+publishDate: "2022-12-20T15:00:00Z"
 
 authors: []
 tags: []
@@ -27,13 +27,9 @@ featured: false
 
 image:
   caption: ''
-  focal_point: 
+  focal_point: right
 
-links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
+links:"
 url_code: ""
 url_pdf: ""
 url_slides: ""

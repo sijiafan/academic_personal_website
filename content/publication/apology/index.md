@@ -26,23 +26,16 @@ title: Sorry Doesn't Cut It, or Does It? Insights from Stock Market Responses to
 doi: ""
 featured: false
 tags:
-  - Source Themes
+  - Papers
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: null
 date: 2022-08-22
 url_slides: ""
 publishDate: 2022-08-22
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}

@@ -12,11 +12,11 @@ author_notes:
 - ""
 - ""
 - ""
-date: ""
+date: "forthcoming"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2022-08-22"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,7 +38,7 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
+url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3903412"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

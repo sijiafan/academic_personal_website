@@ -4,8 +4,8 @@ url_pdf: ""
 summary: AEM 2600
 title: AEM 2600 Managerial Economics
 location: Cornell University
-date: 2022-09
-date_end: 2022-12
+date: "2022-09"
+date_end: "2022-12"
 all_day: false
 event: Teaching Assistant
 event_url: https://example.org

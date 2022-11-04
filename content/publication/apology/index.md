@@ -24,7 +24,7 @@ url_video: ""
 title: Sorry Doesn't Cut It, or Does It? Insights from Stock Market Responses to
   Corporate Apologies
 doi: ""
-featured: true
+featured: false
 tags:
   - Source Themes
 projects: []

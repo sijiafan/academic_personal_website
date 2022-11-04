@@ -20,7 +20,7 @@ education:
     - course: MEng in Operations Research and Information Engineering
       institution: Cornell University
       year: 2019
-    - course: BA in Economics and Mathematics
+    - course: BA in (Hons) Economics and Mathematics
       institution: Skidmore College
       year: 2018
 email: sf395@cornell.edu

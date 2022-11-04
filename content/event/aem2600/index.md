@@ -4,7 +4,7 @@ url_pdf: ""
 summary: Prof Ben Leyden - Fall 2022
 title: AEM 2600 Managerial Economics
 location: Cornell University
-date: "September 2022"
+date: "2022-09-01"
 # date_end: "2022-12-01"
 # all_day: false
 event: Teaching Assistant

@@ -29,7 +29,7 @@ image:
   caption: ''
   focal_point: right
 
-links:"
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""

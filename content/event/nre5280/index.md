@@ -8,7 +8,7 @@ date: "2022-09-01"
 # date_end: "2022-12-01"
 # all_day: false
 event: Teaching Assistant
-event_url: https://example.org
+event_url: https://classes.cornell.edu/browse/roster/FA22/class/NRE/5280
 featured: false
 authors: []
 url_video: ""

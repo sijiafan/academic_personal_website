@@ -38,14 +38,6 @@ experience:
     date_end: '2020-07-31'
     description: ''
     
-  - title: Graduate Teaching Assistant
-    company: ORIE 4741 Learning with Big Messy Data
-    company_url: 'https://people.orie.cornell.edu/mru8/orie4741/'
-    location: Cornell Engineering
-    date_start: '2019-09-01'
-    date_end: '2019-12-20'
-    description: ''
-   
   - title: Research Associate
     company: The Stone Street Group
     company_url: ''

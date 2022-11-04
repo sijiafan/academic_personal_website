@@ -38,8 +38,8 @@ featured: true
 
 # links:
 # - name: ""
-url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3903412"
-url_pdf: ''
+# url: ""
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3903412'
 url_code: ''
 url_dataset: ''
 url_poster: ''

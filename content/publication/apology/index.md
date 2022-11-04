@@ -1,5 +1,5 @@
 ---
-title: "Do Investors Care about Corporate Apologies? Evidence from Chemical Disasters"
+title: "Sorry Doesn't Cut It, or Does It? Insights from Stock Market Responses to Corporate Apologies"
 
 authors:
 - admin
@@ -16,19 +16,19 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-15"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
-publication_short: ""
+publication: "Journal of Economic Behavior and Organization"
+publication_short: "JEBO"
 
-abstract: "This paper examines the stock market reaction to corporate apologies. We construct an extensive database of corporate apologies issued for major chemical disasters between 1985 and 2017. Results from event studies and cross-sectional regressions suggest that 1) the mere presence of an apology does not affect the implicated firm's stock price; but 2) type of apology and incident characteristics are associated with significant abnormal returns. In particular, firms that shift the blame to others consistently experience positive abnormal returns, while firms who admit their incompetency tend to face negative stock market reactions in the longer-term. Greater publicity for the chemical spill is associated with a negative stock market response while greater publicity for the apology is associated with a  positive stock market response. Our results have practical implications for corporate crisis management and improve our understanding of what makes an effective apology."
+abstract: "This paper examines the stock market reaction to corporate apologies. We construct a comprehensive database of corporate apologies issued for major chemical disasters between 1985 and 2017. Results from event studies and cross-sectional regressions suggest that 1) on average there is no significant stock market response after a firm apologizes; but when we allow for heterogeneity in the type of apologies, we find that 2) some apologies are associated with significant abnormal returns. In particular, firms that shift the blame to others consistently experience positive abnormal returns, while firms that admit to making mistakes tend to face negative stock market reactions in the longer-term. Greater media coverage for the chemical spill and the apology is associated with a negative and positive stock market response, respectively. Our findings are consistent with a signaling theory of apologies and help shed light on corporate crisis management and understanding of what makes an effective apology."
 # Summary. An optional shortened abstract.
 summary: ""
 

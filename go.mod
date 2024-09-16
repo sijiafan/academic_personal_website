@@ -1,8 +1,10 @@
-module github.com/wowchemy/starter-academic
+module github.com/wowchemy/starter-hugo-academic
 
 go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210116234944-9f5c626c8f9f // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210116234944-9f5c626c8f9f
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20221227233304-549d2cd12615
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.1-0.20221227233304-549d2cd12615
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v0.0.0-20221227233304-549d2cd12615
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221227233304-549d2cd12615
 )

@@ -34,14 +34,14 @@
   weight = 40
 
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 50
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "media/CV_2021_01.pdf"
+    url = "media/Sijia_CV_August_2024.pdf"
     weight = 50

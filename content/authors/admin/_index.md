@@ -14,9 +14,9 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Applied Economics and Management
+    - course: PhD in Applied Economics and Management, 
       institution: Cornell University
-      year: Expected 2025
+      year: Expected 2026
     - course: MEng in Operations Research and Information Engineering
       institution: Cornell University
       year: 2019
@@ -27,8 +27,9 @@ email: sf395@cornell.edu
 superuser: true
 highlight_name: false
 ---
-Sijia Fan is a PhD student in Applied Economics and Management at Dyson in Cornell University. Her research passion lies in the subdisciplines of applied econometrics and applied microeconomics with a focus on finance and environment economics where she can apply computational and analytical analyses to complex societal and economic challenges to make policy implications. More specifically, she is interested in conducting research related to data-driven financial markets and environmental issues and aim to develop statistical methods that could help shape relevant public policies. 
+Hi, welcome to my site!
+I’m Sijia Fan, a fifth-year PhD student in Applied Economics and Management with a concentration in finance at the Dyson School, S.C. Johnson College of Business, Cornell University. My research interests are in empirical asset pricing, with a focus on climate and sustainability.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_2021_01.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sijia_CV_August_2024.pdf" "newtab" >}}CV{{< /staticref >}}.

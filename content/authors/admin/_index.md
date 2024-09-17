@@ -20,11 +20,11 @@ organizations:
     url: https://dyson.cornell.edu/programs/graduate/graduate-student-directory/
 education:
   courses:
-    - course: PhD in Applied Economics and Management, 
-      institution: Cornell University
+    - course: PhD in Applied Economics and Management, Area: Finance 
+      institution: SC Johnson College of Business, Cornell University
       year: Expected 2026
     - course: MEng in Operations Research and Information Engineering
-      institution: Cornell University
+      institution: College of Engineering, Cornell University
       year: 2019
     - course: BA in (Hons) Economics and Mathematics
       institution: Skidmore College

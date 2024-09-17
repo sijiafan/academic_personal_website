@@ -1,7 +1,7 @@
 ---
 title: Sijia Fan
 role: PhD student in Applied Economics and Management
-avatar_filename: img_0851.jpg
+# avatar_filename: img_0851.jpg
 bio: My research interests include empirical finance and environmental economics.
 # interests: 
 #  - 

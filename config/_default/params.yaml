@@ -20,7 +20,7 @@ local_business_type: ''
 org_name: ''
 description: ''
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = 'sijia_fan'
+twitter: 'sijia_fan'
 
 # Contact (edit or remove options as required)
 

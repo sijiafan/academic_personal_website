@@ -14,17 +14,18 @@ date: '2024-09-15'
 
 [Periclean Scholar Thesis Award](https://creativematter.skidmore.edu/peri_stu_scholar/)
 - Skidmore College, Undergrad Honors Thesis Award out of all senior theses, 2018
+- ["Stock Market Reactions to Industrial Disasters: Evidence from Incident Firms and Their Competitors"](https://creativematter.skidmore.edu/econ_studt_schol/88/)
 
 [William E. Weiss Memorial Award in Economics](https://www.skidmore.edu/flip-books/hc/2018-honors-convocation/16/)
 - Skidmore College, two out of all Economics major students, 2018
 
-Harvard National High School Invitational Forensics Tournament,
-International Champion, Feb 2014
+Harvard National High School Invitational Forensics Tournament
+- International Champion, Feb 2014
 
 ### Professional Experience
 
-[Block Renovation, New York City, US](https://www.blockrenovation.com/),
-Data Intern, Feb 2020 to July 2020
+[Block Renovation](https://www.blockrenovation.com/), New York City
+- Data Intern, Feb 2020 to July 2020
 
-The Stone Street Group,
-Equity Research Associate Intern, April 2019 to August 2019
+The Stone Street Group
+- Equity Research Associate Intern, April 2019 to August 2019

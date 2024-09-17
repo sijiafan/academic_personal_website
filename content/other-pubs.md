@@ -5,9 +5,9 @@ date: '2024-09-15'
 ---
 
 ### Honors
-[Slient Hoist and Crane Award](https://www.orie.cornell.edu/news/ories-peter-jackson-advises-winning-m-eng-project-team-annual-competition)
+[Silent Hoist and Crane Award](https://www.orie.cornell.edu/news/ories-peter-jackson-advises-winning-m-eng-project-team-annual-competition)
 - The Third Place (out of all Cornell M.Eng Capstone Projects), 2019
-- One [example user interface](https://sf395.shinyapps.io/UserInterface_test/) for our final deliverables for The Home Depot website
+- [Demo user interface for businesses](https://sf395.shinyapps.io/UserInterface_test/) for our final deliverables for The Home Depot website
 
 [Mathematical/Interdisciplinary Contest in Modeling (2018)](https://www.comap.com/undergraduate/contests/mcm/contests/2018/results/2018_ICM_Problem_E_Results.pdf):
 - Outstanding Paper Award (33 out of 20,000 entries), INFORMS Award (1 out of 6000 entries), and International COMAP Scholarship Award (top 4 paper with $10,000 scholarship).

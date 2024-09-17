@@ -3,7 +3,7 @@ title: "Sorry Doesn't Cut It, or Does It? Insights from Stock Market Responses t
 date: 2023-01-01
 draft: false
 featured: true
-authors: ["Sijia Fan", "Qi Ge", "Benjamin Ho", "Lirong Ma]
+authors: ["Sijia Fan", "Qi Ge", "Benjamin Ho", "Lirong Ma"]
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.

@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Flood Risk, Firm Resilience and Market Dynamics"
+title: "Flooded but Thriving? The Uneven Economic Impact of Floods and Flood Risk"
 authors: ["Sijia Fan"]
 date: 2024-05-01
 featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
+publication: "JMP"
 publication_short: ""
 
 # Abstract and optional shortened version.
-abstract: "I study the impact of floods and flood risk exposure on the firms’ and establishments’ performances in the US. Using high-resolution satellite data, I construct a novel dataset at the establishment level with flooding history and flood risk based on FEMA flood maps. I find that flood risk reduces establishments’ employment levels due to the expected direct damages, and a decreased labor supply driven by changes in workers’ location choices and reduced real wages in the local region. In the year of a flood event, there are significant negative impacts on establishments’ employment. However, in the subsequent years, these impacts become significantly positive. The potential channels include flood insurance, disaster aid, and community resilience but are not due to reasons such as survivorship bias. In addition, I find significant negative stock market reactions to flood occurrences. The negative reaction is more pronounced for firms lacking prior flood risk disclosures, those without existing establishments in high-risk areas, and those with no prior experience of major flooding events."
+abstract: "I examine the effects of floods and flood risk on US establishments and firms by combining establishment-level data with FEMA flood maps and high-resolution remote sensing. I document significant increases in employment and sales at flooded establishments. Using event study and spatial regression discontinuity around regulatory boundaries, I provide novel evidence that federal flood insurance helps post-disaster recovery. I also find suggestive evidence of positive regional spillovers from federal spending. In contrast, establishments located in high-risk flood zones tend to reduce employment, potentially due to disincentive effects of elevated insurance costs and reduced local economic diversity. At the firm level, I use large language models to classify voluntary flood risk disclosures in 10-K filings and earnings calls. Firms with higher flood exposure are more likely to disclose relevant risks and adjust their operations by reducing their inventories and tangible assets. Meanwhile, I find significant negative stock market reactions to floods, particularly for firms that lack prior flood risk disclosures, have no establishments in high-risk areas, or have not previously experienced major flooding. Overall, my study underscores the role of insurance and risk disclosures in post-disaster recovery, while pointing to the broader economic costs of chronic climate risk exposure and the importance of aligning long-term policy and market incentives to promote sustainable development."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

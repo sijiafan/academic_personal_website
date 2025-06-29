@@ -33,9 +33,10 @@ email: "sf395@cornell.edu"
 superuser: true
 highlight_name: false
 ---
-Welcome to my website!
-I’m Sijia Fan, a fifth-year PhD student in Applied Economics and Management with a concentration in finance at the Dyson School, S.C. Johnson College of Business, Cornell University. My research interests are in empirical asset pricing, with a focus on climate and sustainability.
+Welcome to my website! I am a Ph.D. student in Applied Economics and Management with a concentration in Finance at the Dyson School, S.C. Johnson College of Business, Cornell University.
 
+My research interests are climate and environmental finance, sustainable investing, and financial disclosure.
 
+I will be on the academic job market in Fall 2025 and Spring 2026.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sijia_CV_August_2024.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sijia_CV_2025June.pdf" "newtab" >}}CV{{< /staticref >}}.

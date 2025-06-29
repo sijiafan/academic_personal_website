@@ -3,7 +3,7 @@
 
 title: "Flooded but Thriving? The Uneven Economic Impact of Floods and Flood Risk"
 authors: ["Sijia Fan"]
-date: 2025-07-29
+date: 2025-07-28
 featured: true
 publication_types: ["3"]
 

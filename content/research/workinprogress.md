@@ -18,6 +18,3 @@ design:
 **Investors and the City: The Role of Institutional Ownership in the Allocation of Climate Infrastructure**  
 with Kelly Posenau and Ana-Maria Tenekedjieva
 
-
-# **The Value of Biodiversity Risk Disclosure**  
-# with Miao Liu, Yao Lu, and David Ng

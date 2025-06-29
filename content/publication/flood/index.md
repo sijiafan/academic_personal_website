@@ -3,12 +3,12 @@
 
 title: "Flooded but Thriving? The Uneven Economic Impact of Floods and Flood Risk"
 authors: ["Sijia Fan"]
-date: 2024-05-01
+date: 2025-07-29
 featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "JMP"
+publication: "Job Market Paper"
 publication_short: ""
 
 # Abstract and optional shortened version.

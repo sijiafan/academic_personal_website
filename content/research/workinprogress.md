@@ -19,5 +19,5 @@ design:
 with Kelly Posenau and Ana-Maria Tenekedjieva
 
 
-#**The Value of Biodiversity Risk Disclosure**  
-#with Miao Liu, Yao Lu, and David Ng
+# **The Value of Biodiversity Risk Disclosure**  
+# with Miao Liu, Yao Lu, and David Ng

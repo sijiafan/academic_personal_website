@@ -1,0 +1,24 @@
+<li class="pub-list-item">
+  <span class="article-metadata">
+    {{ .Params.publication | markdownify }}
+  </span>
+  <div class="article-title">
+    {{ if .Params.url_pdf }}
+      <a href="{{ .Params.url_pdf }}">{{ .Title }}</a>
+    {{ else }}
+      {{ .Title }}
+    {{ end }}
+  </div>
+  {{ with .Params.abstract }}
+    <div class="pub-abstract mt-2">
+      <em>{{ . }}</em>
+    </div>
+  {{ end }}
+  {{ with .Params.links }}
+    <div class="btn-links mt-2">
+      {{ range . }}
+        <a class="btn btn-sm btn-outline-primary" href="{{ .url }}">{{ .name }}</a>
+      {{ end }}
+    </div>
+  {{ end }}
+</li>

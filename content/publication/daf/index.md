@@ -4,7 +4,7 @@ date: 2025-05-01
 draft: false
 featured: true
 authors: ["Yipiao Cai", "Sijia Fan", "David Ng", "Jie Ying"]
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated version.
 publication: "Under Review"

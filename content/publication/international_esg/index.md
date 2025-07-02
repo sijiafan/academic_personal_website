@@ -8,7 +8,7 @@ featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
+publication: "Working Papers"
 publication_short: ""
 
 # Abstract and optional shortened version.

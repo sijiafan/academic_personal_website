@@ -78,6 +78,7 @@ show_related:
   project: true
   publication: true
   event: true
+  abstract: true
 reading_time: true # Show estimated reading time for posts? (true/false)
 section_pager: false # Display next/previous section pager? (true/false)
 docs_section_pager: true # Display pager in Docs layout (e.g. tutorials)?

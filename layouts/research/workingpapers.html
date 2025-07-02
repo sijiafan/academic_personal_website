@@ -7,8 +7,7 @@ type: research
 {{ define "main" }}
 <section class="container">
   <h1>{{ .Title }}</h1>
-
-  {{ $papers := where site.RegularPages "Params.publication_types" "intersect" (slice "3") }}
+  {{ $papers := where site.RegularPages "Section" "publication" | where "Params.publication_types" "intersect" (slice "3") }}
   {{ range $papers }}
     <div class="pub-item">
       <h4>{{ .Title }}</h4>

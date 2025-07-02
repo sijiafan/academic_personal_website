@@ -1,0 +1,32 @@
+{{ define "main" }}
+  <section id="publications">
+    <div class="container">
+      <h1>Research</h1>
+      {{ range .Pages.ByDate.Reverse }}
+        <div class="pub-item">
+          <h3>{{ .Title }}</h3>
+
+          {{ with .Params.publication }}
+            <p><strong>{{ . }}</strong></p>
+          {{ end }}
+
+          {{ with .Params.authors }}
+            <p><em>{{ delimit . ", " }}</em></p>
+          {{ end }}
+
+          {{ with .Params.abstract }}
+            <p>{{ . }}</p>
+          {{ end }}
+
+          {{ with .Params.links }}
+            {{ range . }}
+              <a class="btn btn-sm btn-outline-primary" href="{{ .url }}">{{ .name }}</a>
+            {{ end }}
+          {{ end }}
+
+          <hr>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

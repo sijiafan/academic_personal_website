@@ -5,10 +5,10 @@ title: "International ESG Equity Investing and Heterogeneous Asset Demand"
 authors: ["Sijia Fan"]
 date: 2023-11-17
 featured: true
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Papers"
+publication: "Working Paper"
 publication_short: ""
 
 # Abstract and optional shortened version.

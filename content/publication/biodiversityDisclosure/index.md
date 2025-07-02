@@ -5,7 +5,7 @@ title: "Biodiversity Risk Disclosure"
 authors: ["Sijia Fan", "Miao Liu", "Yao Lu", "David Ng"]
 date: 2025-06-01
 featured: true
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
 publication: "Working Paper"

@@ -90,6 +90,7 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.`.
 abstract_length: 135
+show_abstract: true
 #   plugins_js: E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js: []
 avatar: 

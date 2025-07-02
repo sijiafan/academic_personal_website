@@ -33,7 +33,7 @@ email: "sf395@cornell.edu"
 superuser: true
 highlight_name: false
 ---
-Welcome to my website! I am a Ph.D. student in Applied Economics and Management with a concentration in Finance at the Dyson School, S.C. Johnson College of Business, Cornell University.
+Welcome to my website! I am a Ph.D. student in Applied Economics and Management with a concentration in Finance at S.C. Johnson College of Business, Cornell University.
 
 My research interests are climate and environmental finance, sustainable investing, and financial disclosure.
 

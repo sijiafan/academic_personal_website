@@ -1,0 +1,33 @@
+---
+title: "Working Papers"
+type: research
+layout: workingpapers
+---
+
+{{ define "main" }}
+<section class="container">
+  <h1>{{ .Title }}</h1>
+
+  {{ $papers := where site.RegularPages "Params.publication_types" "intersect" (slice "3") }}
+  {{ range $papers }}
+    <div class="pub-item">
+      <h4>{{ .Title }}</h4>
+      {{ with .Params.authors }}
+        <p><em>{{ delimit . ", " }}</em></p>
+      {{ end }}
+      {{ with .Params.abstract }}
+        <p><strong>Abstract:</strong> {{ . }}</p>
+      {{ end }}
+      {{ with .Params.presentations }}
+        <p><strong>Presentations:</strong> {{ delimit . ", " }}</p>
+      {{ end }}
+      {{ with .Params.links }}
+        {{ range . }}
+          <a class="btn btn-sm btn-outline-primary" href="{{ .url }}">{{ .name }}</a>
+        {{ end }}
+      {{ end }}
+      <hr>
+    </div>
+  {{ end }}
+</section>
+{{ end }}

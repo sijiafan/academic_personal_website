@@ -39,4 +39,4 @@ My research interests are climate and environmental finance, sustainable investi
 
 I will be on the job market in Fall 2025 and Spring 2026.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sijia_CV_2025July.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Sijia_CV_2025Aug.pdf" "newtab" >}}CV{{< /staticref >}}.

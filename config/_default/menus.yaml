@@ -20,7 +20,8 @@ main:
     url: media/Sijia_CV.pdf
     weight: 60
     params:
-      target: _blank         # open in new tab
+#     target: _blank         # open in new tab
+      external: true 
       rel: noopener  
 
 # Link to a PDF of your resume/CV from the menu.

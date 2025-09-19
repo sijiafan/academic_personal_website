@@ -17,7 +17,7 @@ abstract: "Biodiversity risk is an emerging challenge for firms and a growing co
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
+links:
 - name: SSRN
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5398915"
 # - name: Conference Agenda and Slides

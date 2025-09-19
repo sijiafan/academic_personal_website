@@ -19,6 +19,9 @@ main:
   - name: CV
     url: media/Sijia_CV.pdf
     weight: 60
+    params:
+      target: _blank         # open in new tab
+      rel: noopener  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

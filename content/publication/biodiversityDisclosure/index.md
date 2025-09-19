@@ -19,8 +19,8 @@ Biodiversity risk is an emerging challenge for firms and a growing concern for i
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: SSRN
-  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5398915"
+  - name: SSRN
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5398915"
 # - name: Conference Agenda and Slides
 #  url: "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-economic-policy-symposium-reassessing-the-effectiveness-and-transmission-of-monetary-policy/"
 ---

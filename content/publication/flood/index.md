@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Flooded but Thriving? The Uneven Economic Effects of Floods and Flood Risk"
+title: "How Firms Recover after Floods: Mechanisms and Evidence"
 authors: ["Sijia Fan"]
 date: 2025-06-28
 featured: true
@@ -12,7 +12,7 @@ publication: "Job Market Paper"
 publication_short: ""
 
 # Abstract and optional shortened version.
-abstract: " I study how floods and chronic flood risk affect U.S. establishments and firms by combining high-resolution remote sensing flood data, FEMA flood maps, and establishment-level data. After floods, I find that establishments show growth in employment and sales, with recovery supported by insurance payouts and federal aid. Using a triple-difference and spatial regression discontinuity design around regulatory boundaries, I provide novel causal evidence that flood insurance plays a critical role in enhancing recovery, particularly for establishments subject to the mandatory National Flood Insurance Program purchase requirement. Federal aid, notably SBA disaster loans, also strengthens recovery by supporting small businesses and generating local spillovers. In contrast, chronic flood risk is associated with persistent declines in employment and business diversity, likely driven by higher insurance expenses and increased business exits. At the firm level, these patterns persist and the dynamics aggregate: firms with greater flood risk disclose these risks more proactively and reduce investment in physical assets, while markets react more negatively to floods for firms lacking prior exposure or disclosure. Overall, my findings highlight how insurance and risk communication enhance resilience to climate shocks, while underscoring the need for policies that mitigate long-term vulnerability without encouraging unsustainable development."
+abstract: "Floods are among the costliest U.S. disasters, yet we know little about how businesses recover. I combine high-resolution remote sensing inundation, FEMA flood maps, and establishment data. Using a triple difference around Hurricane Sandy and a spatial regression discontinuity that compares establishments just inside and outside the FEMA floodplains, I provide novel causal evidence that flooded establishments inside the floodplain (where the NFIP mandatory purchase requirement applies) recover more in employment and sales than comparable peers outside. The recovery is larger where insurance is more likely to be in place and where a larger share of losses can be insured. Federal programs (SBA disaster loans and FEMA Public Assistance) are associated with additional local gains. Firms that disclosed insurance opportunities before the flood also see stronger establishment recovery; stock market reactions to flood news are less negative for firms with prior flood exposure or disclosure. Together, the findings show that mandate-induced insurance access, public aid, and firm preparedness shape real and financial resilience to disaster risk."
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

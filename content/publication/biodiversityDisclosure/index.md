@@ -23,5 +23,4 @@ abstract: |
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5398915"
 # - name: Conference Agenda and Slides
 #  url: "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-economic-policy-symposium-reassessing-the-effectiveness-and-transmission-of-monetary-policy/"
-
 ---

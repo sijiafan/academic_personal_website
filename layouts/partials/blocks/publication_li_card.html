@@ -1,0 +1,42 @@
+{{/* Title */}}
+<h3 class="article-title mb-0 mt-0">
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+</h3>
+
+{{/* Authors */}}
+{{ with .Params.authors }}
+  <div class="article-metadata">
+    {{ delimit . ", " }}
+  </div>
+{{ end }}
+
+{{/* Publication name (e.g., Job Market Paper) */}}
+{{ with .Params.publication }}
+  <div class="article-metadata">
+    {{ . | safeHTML }}
+  </div>
+{{ end }}
+
+{{/* Abstract (if you show it in cards) */}}
+{{ with .Params.abstract }}
+  <p>{{ . }}</p>
+{{ end }}
+
+{{/* ✅ Your custom line */}}
+{{ with .Params.presentation }}
+  <p style="font-size:0.9em; color:#555;"><em>{{ . }}</em></p>
+{{ end }}
+
+{{/* Links (SSRN etc.) */}}
+{{ $links := .Params.links }}
+{{ if $links }}
+  <div class="btn-links">
+    {{ range $links }}
+      {{ if .url }}
+        <a class="btn btn-outline-primary btn-sm" href="{{ .url }}">{{ .name }}</a>
+      {{ else }}
+        <span class="btn btn-outline-secondary btn-sm" style="pointer-events:none; opacity:.7; cursor:default;">{{ .name }}</span>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

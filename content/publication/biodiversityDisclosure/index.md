@@ -1,5 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
+_build:
+  render: never        # don't generate the single page
+  list: always         # still include in lists
+  publishResources: true
 
 title: "Corporate Disclosure of Biodiversity Risk Exposure"
 external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5398915"

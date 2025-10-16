@@ -21,5 +21,10 @@ abstract: "Floods are among the costliest natural disasters, yet we know little 
 #  url: "files/jh_bps_conference_draft.pdf"
 # - name: Conference Agenda and Slides
 #  url: "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-economic-policy-symposium-reassessing-the-effectiveness-and-transmission-of-monetary-policy/"
+# Custom links
+links:
+- name: SSRN
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5610556"
+---
 
 ---

@@ -4,7 +4,7 @@
 title: "How Firms Recover after Floods: Mechanisms and Evidence"
 authors: ["Sijia Fan"]
 date: 2025-10-15
-featured: FA
+featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.

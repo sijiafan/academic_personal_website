@@ -5,7 +5,8 @@ _build:
   list: always         # still include in lists
   publishResources: true
 
-title: '<a href="https://www.dropbox.com/scl/fi/3qtdhbnka4atikx1lolm5/SijiaFan_JMP.pdf?rlkey=nf8bx4vppos1wunmdaf32lv7m&e=1&st=jmg0k2wi&dl=0" target="_blank" rel="noopener">How Firms Recover after Floods: Mechanisms and Evidence</a>'
+title: "How Firms Recover after Floods: Mechanisms and Evidence"
+external_link: "https://www.dropbox.com/scl/fi/3qtdhbnka4atikx1lolm5/SijiaFan_JMP.pdf?rlkey=nf8bx4vppos1wunmdaf32lv7m&e=2&st=zu8n7nws&dl=0"
 authors: ["Sijia Fan"]
 date: 2025-10-15
 featured: false

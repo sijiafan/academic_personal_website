@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Corporate Disclosure of Biodiversity Risk Exposure"
+external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5398915"
 authors: ["Sijia Fan", "Miao Liu", "Yao Lu", "David Ng"]
 date: 2025-06-01
 featured: true

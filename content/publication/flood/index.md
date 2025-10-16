@@ -1,6 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
+_build:
+  render: never        # don't generate the single page
+  list: always         # still include in lists
+  publishResources: true
+  
 title: "How Firms Recover after Floods: Mechanisms and Evidence"
 authors: ["Sijia Fan"]
 date: 2025-10-15

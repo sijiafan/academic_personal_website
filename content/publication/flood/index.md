@@ -25,8 +25,8 @@ presentation: "Presentations: AFA Poster 2026 (scheduled); NBER Climate Finance 
 #  url: "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-economic-policy-symposium-reassessing-the-effectiveness-and-transmission-of-monetary-policy/"
 # Custom links
 links:
-- name: "Presentations: AFA Poster 2026 (scheduled); NBER Climate Finance PhD Workshop 2025; Cornell Finance Brown Bag"
-  url: ""
+- name: "_Presentations_: AFA Poster 2026 (scheduled);  NBER Climate Finance PhD Workshop 2025;  Cornell Finance Brown Bag"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5610556"
 - name: SSRN
   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5610556"
 ---

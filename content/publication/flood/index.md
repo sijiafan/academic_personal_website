@@ -4,8 +4,8 @@ _build:
   render: never        # don't generate the single page
   list: always         # still include in lists
   publishResources: true
-  
-title: "How Firms Recover after Floods: Mechanisms and Evidence"
+
+title: '<a href="https://www.dropbox.com/scl/fi/3qtdhbnka4atikx1lolm5/SijiaFan_JMP.pdf?rlkey=nf8bx4vppos1wunmdaf32lv7m&e=1&st=jmg0k2wi&dl=0" target="_blank" rel="noopener">How Firms Recover after Floods: Mechanisms and Evidence</a>'
 authors: ["Sijia Fan"]
 date: 2025-10-15
 featured: false

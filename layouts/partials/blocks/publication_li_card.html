@@ -13,12 +13,16 @@
   {{ end }}
 </h3> -->
 
+
 <h3 class="article-title mb-0 mt-0">
   {{ $ext := .Params.external_link }}
   {{ if $ext }}
-    <a href="{{ $ext }}" target="_blank" rel="noopener">{{ .Title | safeHTML }}</a>
+    <a href="{{ $ext }}" target="_blank" rel="noopener">{{ .Title }}</a>
   {{ else }}
-    {{ .Title | safeHTML }}
+    {{ .Title }}
+  {{ end }}
+  {{ with .Params.subtitle }}
+    <small class="paper-mini"> {{ . }} </small>
   {{ end }}
 </h3>
 

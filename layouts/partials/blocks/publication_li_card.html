@@ -1,6 +1,6 @@
 <!-- USING LOCAL CARD PARTIAL -->
 
-<h3 class="article-title mb-0 mt-0">
+<!-- <h3 class="article-title mb-0 mt-0">
   {{ $ext := .Params.external_link }}
   {{ $noSingle := or .Params.no_single (eq .Params._build.render "never") }}
 
@@ -10,6 +10,15 @@
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   {{ else }}
     {{ .Title }}
+  {{ end }}
+</h3> -->
+
+<h3 class="article-title mb-0 mt-0">
+  {{ $ext := .Params.external_link }}
+  {{ if $ext }}
+    <a href="{{ $ext }}" target="_blank" rel="noopener">{{ .Title | safeHTML }}</a>
+  {{ else }}
+    {{ .Title | safeHTML }}
   {{ end }}
 </h3>
 

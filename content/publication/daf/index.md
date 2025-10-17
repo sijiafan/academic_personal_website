@@ -5,7 +5,7 @@ _build:
   publishResources: true
   
 title: "Do Donors of Donor-advised Funds Respond to Natural Disasters?"
-date: 2024-12-01
+date: 2025-05-01
 draft: false
 featured: true
 authors: ["Yipiao Cai", "Sijia Fan", "David Ng", "Jie Ying"]

@@ -7,7 +7,7 @@ _build:
 
 title: "International ESG Equity Investing and Heterogeneous Asset Demand"
 authors: ["Sijia Fan"]
-date: 2025-01-01
+date: 2025-05-30
 featured: true
 publication_types: ["3"]
 

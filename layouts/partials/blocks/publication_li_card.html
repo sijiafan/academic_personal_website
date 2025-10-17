@@ -13,13 +13,6 @@
   {{ end }}
 </h3>
 
-# {{/* Authors */}}
-# {{ with .Params.authors }}
-#  <div class="article-metadata">
-#    {{ delimit . ", " }}
-#  </div>
-# {{ end }}
-
 {{ partial "page_metadata.html" . }}
 
 {{/* Publication name (e.g., Job Market Paper) */}}

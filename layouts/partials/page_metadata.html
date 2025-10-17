@@ -1,0 +1,24 @@
+{{/* Show metadata but hide date for working papers */}}
+
+{{ $isWorking := false }}
+{{ with .Params.publication_types }}
+  {{ if and (ge (len .) 1) (eq (index . 0) "3") }}
+    {{ $isWorking = true }}
+  {{ end }}
+{{ end }}
+
+<div class="article-metadata">
+  {{/* Authors (if your theme shows them here) */}}
+  {{ with .Params.authors }}
+    <span class="article-authors">{{ delimit . ", " }}</span>
+  {{ end }}
+
+  {{/* Date: only if NOT working paper */}}
+  {{ if not $isWorking }}
+    {{ with .Date }}
+      <span class="article-date">{{ . | time.Format "Jan 2006" }}</span>
+    {{ end }}
+  {{ end }}
+
+  {{/* Add any other metadata bits your site needs */}}
+</div>

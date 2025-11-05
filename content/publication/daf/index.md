@@ -12,10 +12,10 @@ authors: ["Yipiao Cai", "Sijia Fan", "David Ng", "Jie Ying"]
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Working Paper"
+publication: "Revise and Resubmit, Review of Corporate Finance Studies"
 
 # Abstract and optional shortened version.
-abstract: "Donor Advised Funds (DAFs) have grown significantly over the past decade as a popular tool for charitable giving. Despite their popularity, concerns remain about their efficiency in meeting charitable goals, especially during times of increased need. These concerns stem from the government subsidizing the tax treatment of DAFs, which provides donors with favorable tax deductions. Using data from Form 990 e-filings, this study examines how DAFs respond to natural disasters, which typically encourage charitable donations. We find that contributions to DAFs rise significantly during years with frequent natural disasters compared to other nonprofits. However, DAFs do not proportionally increase their grant payouts following these events. This trend persists even when comparing DAFs to private foundations and focusing on local disasters.  Although total grants remain limited, DAF donors show increased engagement in reallocating funds to health- and food-related organizations and nonprofits with greater media coverage after disasters. This selective distribution pattern indicates that while DAF donors respond to disasters, they are hesitant to significantly increase total grant payouts, possibly due to factors like mental accounting."
+abstract: "Donor Advised Funds (DAFs) have grown rapidly as a charitable giving vehicle, yet concerns remain about their timely responsiveness to urgent social needs. Using Form 990 e-filings, we analyze DAF behavior during natural disasters, which typically drive donations. Contributions to DAFs rise significantly in disaster years compared to public charities, but grantmaking does not increase proportionally. This limited response holds for both pure-play and community DAFs, even in locally affected areas. The pattern is not explained by liquidity constraints or investment motives. However, DAFs do exhibit selective grantmaking, favoring media-visible disaster-relief organizations over others."
 
 # Custom links
 # links:

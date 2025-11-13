@@ -8,12 +8,12 @@ _build:
 title: "Corporate Disclosure of Biodiversity Risk Exposure"
 external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5398915"
 authors: ["Sijia Fan", "Miao Liu", "Yao Lu", "David Ng"]
-date: 2025-04-01
+date: 2025-06-01
 featured: true
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Under Review"
+publication: "Revise & Resubmit, _Journal of Accounting and Economics_"
 publication_short: ""
 
 # Abstract and optional shortened version.

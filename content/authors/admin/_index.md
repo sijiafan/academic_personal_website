@@ -21,10 +21,10 @@ organizations:
 education:
   courses:
     - course: PhD in Applied Economics and Management, Area - Finance 
-      institution: SC Johnson College of Business, Cornell University
+      institution: Cornell University, SC Johnson College of Business
       year: Expected 2026
     - course: MEng in Operations Research and Information Engineering
-      institution: College of Engineering, Cornell University
+      institution: Cornell University, College of Engineering
       year: 2019
     - course: BA in (Hons) Economics and Mathematics
       institution: Skidmore College
@@ -35,7 +35,7 @@ highlight_name: false
 ---
 Welcome to my website! I am a Ph.D. student in Applied Economics and Management with a concentration in Finance at S.C. Johnson College of Business, Cornell University.
 
-My research interests are climate and environmental finance, sustainable investing, and financial disclosure.
+My research interests are climate and environmental finance, corporate finance, and financial disclosure.
 
 I will be on the job market in Fall 2025 and Spring 2026.
 

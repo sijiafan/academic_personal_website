@@ -12,7 +12,7 @@ authors: ["Yipiao Cai", "Sijia Fan", "David Ng", "Jie Ying"]
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Revise and Resubmit, Review of Corporate Finance Studies"
+publication: "Revise & Resubmit, _Review of Corporate Finance Studies_"
 
 # Abstract and optional shortened version.
 abstract: "Donor Advised Funds (DAFs) have grown rapidly as a charitable giving vehicle, yet concerns remain about their timely responsiveness to urgent social needs. Using Form 990 e-filings, we analyze DAF behavior during natural disasters, which typically drive donations. Contributions to DAFs rise significantly in disaster years compared to public charities, but grantmaking does not increase proportionally. This limited response holds for both pure-play and community DAFs, even in locally affected areas. The pattern is not explained by liquidity constraints or investment motives. However, DAFs do exhibit selective grantmaking, favoring media-visible disaster-relief organizations over others."

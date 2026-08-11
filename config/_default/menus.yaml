@@ -13,9 +13,9 @@ main:
   - name: Teaching
     url: '/teaching/'
     weight: 40
-  - name: Others
-    url: '/other-pubs/'
-    weight: 50
+#  - name: Others
+#    url: '/other-pubs/'
+#    weight: 50
   - name: CV
     url: media/Sijia_CV.pdf
     weight: 60

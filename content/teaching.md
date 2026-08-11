@@ -40,13 +40,22 @@ ADM 4350 Equity Valuation
 
 #### Cornell University
 Teaching assistant:
+
 NRE 5280 PhD Seminar in Empirical Asset Pricing (David Ng)
+
 NBA 5980 Behavioral Finance (Lawrence Jin)
+
 AEM 4280 Valuation of Capital Investment (David Ng)
+
 AEM 4230/5230 Behavioral Finance (Lawrence Jin)
+
 AEM 6140 Behavioral Economics and Managerial Decisions (David Just)
+
 AEM 4060/6061 Risk Simulation and Monte Carlo Methods (Calum Turvey)
+
 AEM 2600 Managerial Economics (Ben Leyden)
+
 AEM 2601 Strategy (Marcel Preuss)
+
 ORIE 4741 Learning with Big Messy Data (Madeleine Udell)
 

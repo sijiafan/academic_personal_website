@@ -39,26 +39,26 @@ design:
 ADM 4350 Equity Valuation
 
 
-<div style="margin-bottom: 2rem;"></div>
+<div style="margin-bottom: 3rem;"></div>
 
 #### Cornell University
 Teaching assistant:
 
-NRE 5280 PhD Seminar in Empirical Asset Pricing (David Ng)
+<span style="font-size: 0.85rem;">NRE 5280 PhD Seminar in Empirical Asset Pricing (David Ng)</span>
 
-NBA 5980 Behavioral Finance (Lawrence Jin)
+<span style="font-size: 0.85rem;">NBA 5980 Behavioral Finance (Lawrence Jin)</span>
 
-AEM 4280 Valuation of Capital Investment (David Ng)
+<span style="font-size: 0.85rem;">AEM 4280 Valuation of Capital Investment (David Ng)</span>
 
-AEM 4230/5230 Behavioral Finance (Lawrence Jin)
+<span style="font-size: 0.85rem;">AEM 4230/5230 Behavioral Finance (Lawrence Jin)</span>
 
-AEM 6140 Behavioral Economics and Managerial Decisions (David Just)
+<span style="font-size: 0.85rem;">AEM 6140 Behavioral Economics and Managerial Decisions (David Just)</span>
 
-AEM 4060/6061 Risk Simulation and Monte Carlo Methods (Calum Turvey)
+<span style="font-size: 0.85rem;">AEM 4060/6061 Risk Simulation and Monte Carlo Methods (Calum Turvey)</span>
 
-AEM 2600 Managerial Economics (Ben Leyden)
+<span style="font-size: 0.85rem;">AEM 2600 Managerial Economics (Ben Leyden)</span>
 
-AEM 2601 Strategy (Marcel Preuss)
+<span style="font-size: 0.85rem;">AEM 2601 Strategy (Marcel Preuss)</span>
 
-ORIE 4741 Learning with Big Messy Data (Madeleine Udell)
+<span style="font-size: 0.85rem;">ORIE 4741 Learning with Big Messy Data (Madeleine Udell)</span>
 

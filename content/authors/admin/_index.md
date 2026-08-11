@@ -16,7 +16,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/sijia-fan-3615b579/
 organizations: 
-  - name: Ottawa University
+  - name: University of Ottawa
 #    url: https://dyson.cornell.edu/programs/graduate/graduate-student-directory/
 
 education:

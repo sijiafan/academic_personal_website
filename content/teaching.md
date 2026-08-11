@@ -38,6 +38,8 @@ design:
 #### University of Ottawa
 ADM 4350 Equity Valuation
 
+
+
 #### Cornell University
 Teaching assistant:
 

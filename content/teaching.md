@@ -39,8 +39,7 @@ design:
 ADM 4350 Equity Valuation
 
 
-
-        
+<div style="margin-bottom: 2rem;"></div>
 
 #### Cornell University
 Teaching assistant:
